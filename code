@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<head>
+   <title>HTML SEDERHANA</title>
+</head>
+<body>
+    <!-- Heading -->
+    <h1>Perkenalan</h1>
+    
+    <!-- Paragraf -->
+    <p>saya angga syaban rahid i2310053.</p>
+    
+    <!-- Baris -->
+    <hr> <!-- baris garis -->
+
+    <!-- Paragraf dengan Hyperlink -->
+    <p>link wa saya <a href="https://https://www.instagram.com/anggasybnrhd_progress">situs ini</a> .</p>
+
+
+    <!-- list -->
+    <!--
+    <ol>
+        <li>Langkah 1</li>
+        <li>Langkah 2</li>
+    </ol>
+    -->
+</body>
+</html>
